@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 15, 2017
+
+**Today's Progress:** REI Calculator - display results
+
+**Thoughts:** Local testing produced same result of form not having innerHTML display more than 2 seconds. When thinking of code execution I realized that the problem is having button inside form. So once it reaches close tag for form, it probably disppears.
+
+Works as expected, after moving button out. Big thumbs up! Did some of the calc displays and looks decent. Now need to add some more validation and code.
+
+**Link to work:** [JasonsPlayground - REI Calculator](https://whereissql.github.io/JasonsPlayground/rei-quick-calculator.html)
+
 ### Day 2: January 14, 2017
 
 **Today's Progress:** REI Calculator - display results
