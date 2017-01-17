@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 16, 2017
+
+**Today's Progress:** REI Calculator - Add to-do list, FreeCodeCamp continue to review HTML/CSS
+
+**Thoughts:** Created a list of to-do items for the REI Calculator page. Read about pulling data from database using AJAX/JQuery. So I know what I need to get into next. However, instead of getting into the shiny object syndrome. I'd like to get some more practice on Javascript and HTML/CSS work on FreeCodeCamp (will call fcc from now on).
+
+**Link to work:** [JasonsPlayground - REI Calculator](https://whereissql.github.io/JasonsPlayground/rei-quick-calculator.html)
+
 ### Day 3: January 15, 2017
 
 **Today's Progress:** REI Calculator - display results
