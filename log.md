@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 17, 2017
+
+**Today's Progress:** FCC HTML/CSS
+
+**Thoughts:** Continued working through some FCC exercises for HTML/CSS.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+
 ### Day 4: January 16, 2017
 
 **Today's Progress:** REI Calculator - Add to-do list, FreeCodeCamp continue to review HTML/CSS
