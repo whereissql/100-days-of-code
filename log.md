@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 18, 2017
+
+**Today's Progress:** FCC HTML/CSS + JasonsPlayground fix link
+
+**Thoughts:** Fixed broken link to REI Calculator on homepage. Completed all FCC exercises for HTML/CSS. Will start with Bootstrap next. Need to implement some of what we learnt in the FCC HTML/CSS exercise to imprint.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+[JasonsPlayground](https://whereissql.github.io/JasonsPlayground/)
+
+
 ### Day 5: January 17, 2017
 
 **Today's Progress:** FCC HTML/CSS
