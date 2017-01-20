@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 19, 2017
+
+**Today's Progress:** JasonsPlayground add some style to git commands page
+
+**Thoughts:** I had previously created a document to note all the git commands I used and why. I added this to the index page and started thinking about how to add styles to it. Start with bootstrap code and read eloquent javascript.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+[JasonsPlayground-Git Commands](https://whereissql.github.io/JasonsPlayground/git-commands.html)
+[Eloquent Javascript](http://eloquentjavascript.net/)
+
 ### Day 6: January 18, 2017
 
 **Today's Progress:** FCC HTML/CSS + JasonsPlayground fix link
