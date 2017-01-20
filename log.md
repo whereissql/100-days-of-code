@@ -6,9 +6,12 @@
 
 **Thoughts:** I had previously created a document to note all the git commands I used and why. I added this to the index page and started thinking about how to add styles to it. Start with bootstrap code and read eloquent javascript.
 
+Added a new article for CHARINDEX() on my SQL blog. Once I decided to add examples, I went down a rabbit hole of more complicated uses. This reduced my time on web dev stuff. Need to make sure to stay focussed on a smaller portion for the blog. I just made a note of to-do on the article itself and included a couple dead links for them. This will help me get to next topic and link to the one that made me think of them.
+
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
 [JasonsPlayground-Git Commands](https://whereissql.github.io/JasonsPlayground/git-commands.html)
 [Eloquent Javascript](http://eloquentjavascript.net/)
+[WhereisSQL Blog](http://www.whereissql.com/?p=182)
 
 ### Day 6: January 18, 2017
 
