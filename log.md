@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 20, 2017
+
+**Today's Progress:** Read eloquent javascript book through Ch 3. Add style changes to Jasons Playground. Start recording exercises 
+
+**Thoughts:** Went through the book quickly because I knew the concepts. I'm expecting to learn more HTML/CSS by doing rather than reading about it, since I already have some basic knowledge on it and just need a refresher.
+
+**Link to work:** [Eloquent Javascript](http://eloquentjavascript.net/)
+
 ### Day 7: January 19, 2017
 
 **Today's Progress:** JasonsPlayground add some style to git commands page
