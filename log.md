@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: January 21, 2017
+
+**Today's Progress:** Create a navigation menu bar on home page. Fix calculation on calculator. 
+
+**Thoughts:** Looked at how to create a simple fixed navigation bar and went ahead and created it on home page. While testing out calculator, found a bug and fixed the code.
+
+**Link to work:** [Jasons Playground](https://www.whereissql.github.io/JasonsPlayground/)
+
+
 ### Day 8: January 20, 2017
 
 **Today's Progress:** Read eloquent javascript book through Ch 3. Add style changes to Jasons Playground. Start recording exercises 
