@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 22, 2017
+
+**Today's Progress:** Try to fix header on index page. Read about functions
+
+**Thoughts:** Need to dive depper into fixing header. Tomorrow start Bootstrap exercises on fcc. Maybe leverage that for the header centering?
+
+**Link to work:** [Jasons Playground](https://www.whereissql.github.io/JasonsPlayground/)
 
 ### Day 9: January 21, 2017
 
