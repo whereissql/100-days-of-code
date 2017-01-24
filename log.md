@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 23, 2017
+
+**Today's Progress:** Bootstrap - fcc. Eloquent JS - Repeat chapter 3 (functions), start chapter 4 (objects)
+
+**Thoughts:** Took some notes on bootstrap. Re-read chapter 3 and started with reading chapter 4.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+[Eloquent Javascript](http://eloquentjavascript.net/)
+
 ### Day 10: January 22, 2017
 
 **Today's Progress:** Try to fix header on index page. Read about functions
