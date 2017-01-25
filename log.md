@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 24, 2017
+
+**Today's Progress:** Bootstrap - fcc. Eloquent JS - Chapter 4 (arrays/objects)
+
+**Thoughts:** Took some notes on bootstrap. Continue with chapter 4 and take some notes.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+[Eloquent Javascript](http://eloquentjavascript.net/)
+
 ### Day 11: January 23, 2017
 
 **Today's Progress:** Bootstrap - fcc. Eloquent JS - Repeat chapter 3 (functions), start chapter 4 (objects)
