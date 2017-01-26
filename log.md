@@ -4,7 +4,9 @@
 
 **Today's Progress:** Bootstrap - fcc completed
 
-**Thoughts:** Completed fcc's bootstrap exercises. Need a better way to organize files and store the eloquent JS exercises.
+**Thoughts:** Completed fcc's bootstrap exercises. Need a better way to organize files and store the eloquent JS exercises. A little disappointed that my fcc activity is not recorded because I have previously completed these exercises.
+
+I also found a fcc forum post that led me to a free six book series of "You Don't Know Javascript". I starred it on git, but I'm worried I might get back into the shiny object syndrome and lose focus. For now I'll stick with fcc curriculum and go there if I need to. There are also some other books/courses that I have purchased in the past that I have been thinking of starting.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
 
