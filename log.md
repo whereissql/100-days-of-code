@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 25, 2017
+
+**Today's Progress:** Bootstrap - fcc completed
+
+**Thoughts:** Completed fcc's bootstrap exercises. Need a better way to organize files and store the eloquent JS exercises.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+
+
 ### Day 12: January 24, 2017
 
 **Today's Progress:** Bootstrap - fcc. Eloquent JS - Chapter 4 (arrays/objects)
