@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 26, 2017
+
+**Today's Progress:** jQuery - fcc completed
+
+**Thoughts:** Completed jQuery exercises (Waypoints) on fcc. This time I took notes, as opposed to previous attempts at working with fcc. While actually typing code the second time on a page without auto-complete, helped me retain and understand a lot more.
+
+Now there are some basic projects for tribute page and portfolio page, which should be interesting. After struggling with plain html/css, I now appreciate the bootstrap and animate css that much more. lol.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/whereissql)
+
+
 ### Day 13: January 25, 2017
 
 **Today's Progress:** Bootstrap - fcc completed
