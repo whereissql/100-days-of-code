@@ -13,7 +13,7 @@ I started with the tribute page which will be on Terry Fox.
 **Link to work:** [You Don't Know JavaScript](https://github.com/whereissql/You-Dont-Know-JS)
 [Eloquent JavaScript](http://eloquentjavascript.net/)
 [Tribute Page-Gist](https://gist.github.com/whereissql/a4f6db5831b4622f3540c9743e7530a7)
-[Tribute Page-CodePen](http://codepen.io/whereisSQL/pen/BpwqKq)
+[Tribute Page-CodePen](http://codepen.io/whereisSQL/full/BpwqKq/)
 
 
 ### Day 14: January 26, 2017
