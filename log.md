@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 27, 2017
+
+**Today's Progress:** Read chapter 4(Arraya and Objects) on eloquent javascript. Read chapter 1 on YDKJS
+
+**Thoughts:** Decided to take the plunge and read Chapter 1 on You Don't know JavaScript. Seems like an interesting book and went through the intro reasonably quick. I like the logic behind the book, but afraid that I may be usig too many books and methods to learn from all at once. I think I will shelve it for now and continue with fcc and eloquent.
+
+While reading the chapter on Arrays and Objects, I realized I probably need to re-read Functions (chapter 3) and Arrays and Objects (chapter 4) one more time to refresh my memory. I'm not reading every day and with a break of a couple days, I notice some of the concepts are not retained.
+
+I started with the tribute page which will be on Terry Fox.
+
+**Link to work:** [You Don't Know JavaScript](https://github.com/whereissql/You-Dont-Know-JS)
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+[Tribute Page-Gist](https://gist.github.com/whereissql/a4f6db5831b4622f3540c9743e7530a7)
+[Tribute Page-CodePen](http://codepen.io/whereisSQL/pen/BpwqKq)
+
+
 ### Day 14: January 26, 2017
 
 **Today's Progress:** jQuery - fcc completed
