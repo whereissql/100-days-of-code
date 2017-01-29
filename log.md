@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 28, 2017
+
+**Today's Progress:** Completed tribute page on fcc
+
+**Thoughts:** Completed the waypoint for tribute (on Terry Fox).
+
+**Link to work:** [Tribute Page-CodePen](http://codepen.io/whereisSQL/full/BpwqKq/)
+
 ### Day 15: January 27, 2017
 
 **Today's Progress:** Read chapter 4(Arraya and Objects) on eloquent javascript. Read chapter 1 on YDKJS
