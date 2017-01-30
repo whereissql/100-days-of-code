@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 17: January 29, 2017
+
+**Today's Progress:** Start working on Portfolio page waypoint
+
+**Thoughts:** Need to check how to add social media buttons.
+
+**Link to work:** [Portfolio Page-CodePen](https://codepen.io/whereisSQL/full/oBpxpZ/)
+
 ### Day 16: January 28, 2017
 
 **Today's Progress:** Completed tribute page on fcc
 
 **Thoughts:** Completed the waypoint for tribute (on Terry Fox).
 
-**Link to work:** [Tribute Page-CodePen](http://codepen.io/whereisSQL/full/BpwqKq/)
+**Link to work:** [Tribute Page-CodePen](https://codepen.io/whereisSQL/full/BpwqKq/)
 
 ### Day 15: January 27, 2017
 
