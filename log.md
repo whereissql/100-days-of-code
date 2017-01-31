@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 30, 2017
+
+**Today's Progress:** Working on Portfolio page waypoint
+
+**Thoughts:** I hit a bump in the road and quicly realized that maybe I need to treat this the same as how I would treat a dev task at work. Break it down into smaller user stories and complete it one at a time. This way, it doesn't seem overwhelming all at once. I think I will tackle the navigation bar first, because I have not done this with bootstrap yet.
+
+**Link to work:** [Portfolio Page-CodePen](https://codepen.io/whereisSQL/full/oBpxpZ/)
 
 ### Day 17: January 29, 2017
 
