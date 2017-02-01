@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 31, 2017
+
+**Today's Progress:** Read navigation bar bootstrap documentation and examples
+
+**Thoughts:** Read some of the documentation and go through examples of a navigation bar with bootstrap. I will aim for completing the navigation bar for the codepen by EOD tomorrow 2017-02-01
+
+**Link to work:** [Portfolio Page-CodePen](https://codepen.io/whereisSQL/full/oBpxpZ/)
+
 ### Day 18: January 30, 2017
 
 **Today's Progress:** Working on Portfolio page waypoint
