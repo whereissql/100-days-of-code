@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+
+### Day 21: February 2, 2017
+
+**Today's Progress:** Navigation ar + blog post
+
+**Thoughts:** Since I wanted to keep showing some progress and the portfolio page is taking up a longer time than expected, I started with a blog post on a simple sql topic of getting date.
+
+**Link to work:** [Portfolio Page-CodePen](https://codepen.io/whereisSQL/full/oBpxpZ/)
+[Blog - GETDATE() / CURRENT_TIMESTAMP](http://www.whereissql.com/?p=187)
+
+### Day 20: February 1, 2017
+
+**Today's Progress:** Start navigation bar
+
+**Thoughts:** Navigation bar started. Need to read and do more. Push back on completion date.
+
+**Link to work:** [Portfolio Page-CodePen](https://codepen.io/whereisSQL/full/oBpxpZ/)
+
 ### Day 19: January 31, 2017
 
 **Today's Progress:** Read navigation bar bootstrap documentation and examples
